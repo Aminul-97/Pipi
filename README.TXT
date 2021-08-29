@@ -18,3 +18,5 @@ Server.java -    This file connects the user with the server to provide user inf
 Web.java    -    This file connects the user with the author's website to get information about software updates.
 Run.java    -    The main file of the project which contains the core GUI of the project.
 Pipi.java   -    The core file runs the other three files.
+
+!!!! Unzip the file "Unzip_Me_On_Root_Directory.zip" on root directory first.
